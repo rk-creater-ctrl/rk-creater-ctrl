@@ -76,5 +76,6 @@ A simple 2D game built using Pygame.
 ## 📫 Contact
 - 📧 Email: **ritikkushwaha3893@gmail.com**
 - 🐙 GitHub: https://github.com/rk-creater-ctrl
+- 🔗 LinkedIn: https://www.linkedin.com/in/ritik-kushwaha-bb76a0355/
 
 ⭐ If you like my work, feel free to star my repositories!
